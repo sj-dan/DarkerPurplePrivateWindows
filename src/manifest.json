@@ -2,18 +2,18 @@
 	"manifest_version":2,
 	"name":"__MSG_extensionName__",
 	"description":"__MSG_extensionDescription__",
-	"version":"1.1",
+	"version":"1.2",
 	"default_locale":"en",
 	"icons":{
 		"48":"icon.svg"
 	},
 	"developer":{
-		"name":"WaldiPL",
-		"url":"https://github.com/WaldiPL/purplePrivateWindows"
+		"name":"sj-dan",
+		"url":"https://github.com/sj-dan/DarkerPurplePrivateWindows"
 	},
 	"applications":{
 		"gecko":{
-			"id":"purplePrivateWindows@waldemar.b",
+			"id":"DarkerPurplePrivateWindows@waldemar.b",
 			"strict_min_version":"67.0a1"
 		}
 	},
