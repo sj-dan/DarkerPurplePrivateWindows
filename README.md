@@ -1,5 +1,5 @@
 # Purple Private Windows ![](https://img.shields.io/amo/v/purple-private-windows.svg)
-Private windows are now purple.
+Private windows are now **a more sensible** purple.
 
 ## Screenshot
 ![](screenshots/1.png)
